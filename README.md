@@ -41,7 +41,7 @@ HEPaS is a distributed client-server application designed for the Open Universit
 ### License:
 This project is licensed under the MIT License.
 
-### Additional Notes:
+### Additional Notes:..
 - Please refer to the project documentation for detailed setup instructions and usage guidelines.
 - Contributions, bug reports, and feature requests are welcome. Feel free to submit a pull request or open an issue on GitHub.
 
