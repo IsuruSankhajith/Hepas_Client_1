@@ -39,7 +39,7 @@ HEPaS is a distributed client-server application designed for the Open Universit
 - Isuru sankhajith 
 
 ### License:
-This project is licensed under the [License Name] License.
+This project is licensed under the MIT License.
 
 ### Additional Notes:
 - Please refer to the project documentation for detailed setup instructions and usage guidelines.
